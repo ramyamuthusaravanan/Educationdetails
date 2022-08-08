@@ -4,6 +4,7 @@ public class Arts extends Engineering {
 	
 	public void bsc() {
 		System.out.println("Bsc");
+		System.out.println("MBA");
 		}
 	
 	public void bed() {
